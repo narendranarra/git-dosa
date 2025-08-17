@@ -11,3 +11,9 @@
 # Egg Dosa
 * Dosa Batter
 * egg and karam
+
+# Panner Dosa
+* panner
+* Masala curry
+* kaju paste 
+* Ghee
