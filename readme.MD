@@ -17,3 +17,4 @@
 * Masala curry
 * kaju paste 
 * Ghee
+* light oil
